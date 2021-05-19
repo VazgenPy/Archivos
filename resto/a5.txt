@@ -1,0 +1,5 @@
+El numero de palabras es: 4
+La palabra que mas se repite es: hola
+la palabra tal se repite 1 veces 
+la palabra que se repite 1 veces 
+la palabra hola se repite 2 veces 

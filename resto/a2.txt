@@ -1,0 +1,3 @@
+pedro 1
+jose 1
+alberto 3
