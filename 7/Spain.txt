@@ -1,0 +1,31 @@
+Code: ESP
+
+Name: Spain
+
+Continent: Europe
+
+Region: Southern Europe
+
+SurfaceArea: 505992.0
+
+IndepYear: 1492.0
+
+Population: 39441700.0
+
+LifeExpectancy: 78.8
+
+GNP: 553233.0
+
+GNPOld: 532031.0
+
+LocalName: España
+
+GorvernmentForm: Constitutional Monarchy
+
+HeadOfState: Juan Carlos I
+
+Capital: 653.0
+
+Code2: ES
+
+
