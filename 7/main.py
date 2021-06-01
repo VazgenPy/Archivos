@@ -92,7 +92,7 @@ def datos(lista):
 						arch.write(lista[0][w] + ": " + str(i[w]) + "\n\n")
 						arch.close()
 					break
-			
+		
 
 def continente(lista):
 	cls()
@@ -159,5 +159,6 @@ for i in lista[0]:
 		if i[j] == "\n":
 			lista[0].remove("Code2\n")
 			lista[0].append("Code2")
+
 
 UI()
